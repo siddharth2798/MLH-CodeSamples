@@ -7,7 +7,7 @@ Details on each of them is given below.
 
 # RemittanceApp
 
-Working on a proof of concept of the cross border currency exchange use case on the Hyperledger Fabric platform. This app demonstrated the frontend of the app using AngularJS v1.6.9 .
+Working on a proof of concept of the cross border currency exchange use case on the Hyperledger Fabric platform. This app demonstrates the frontend of the app using AngularJS v1.6.9 and the logic flow using MongoDB.
 
 ## Prerequisite
 
