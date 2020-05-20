@@ -11,10 +11,11 @@ Working on a proof of concept of the cross border currency exchange use case on 
 
 ## Prerequisite
 
-Install [NodeJS](https://nodejs.org) on your machine. I have used the node v10.9.0 . Using npm download the mongodb and express packages.
+Install [NodeJS](https://nodejs.org) on your machine. I have used the node v10.9.0 . Using npm download the mongodb, cors and express packages.
 ```bash
 npm install express
 npm install mongodb
+npm install cors
 ```
 
 Install [MongoDB](https://www.mongodb.org) on your system or use the cloud version , [Mongo Atlas](https://www.mongodb.com/cloud/atlas) .
