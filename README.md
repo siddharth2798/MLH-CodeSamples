@@ -50,7 +50,3 @@ Note: Clear chain is for deleting all the data in the blockchain
 - Enter Case ID to search for
 - Upload the file that you want to check for and generate it's hash
 - Verify the document
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
