@@ -5,6 +5,30 @@ This repo contains two projects. Remittance App and Verify App.
 
 Details on each of them is given below.
 
+# RemittanceApp
+
+Working on a proof of concept of the cross border currency exchange use case on the Hyperledger Fabric platform. This app demonstrated the frontend of the app using AngularJS v1.6.9 .
+
+## Prerequisite
+
+Install [NodeJS](https://nodejs.org) on your machine. I have used the node v10.9.0 . Using npm download the mongodb and express packages.
+```bash
+npm install express
+npm install mongodb
+```
+
+Install [MongoDB](https://www.mongodb.org) on your system or use the cloud version , [Mongo Atlas](https://www.mongodb.com/cloud/atlas) .
+
+
+## Implementation
+
+The app has four pages:
+
+- Login Page : Lets a user access his account
+- Profile Page : Shows basic details of the user like name, balance, Home Branch, IFSC.
+- Beneficiary Page: This where you select who to send money to.
+- Transact Page: Sending desired amount of money to the beneficiary.
+
 
 
 
